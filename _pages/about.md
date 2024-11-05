@@ -15,4 +15,5 @@ You can find my CV here: [Curriculum Vitae](https://dionobread.github.io/gangzha
 
 Publication
 ======
+<br>
 Gang Zhang, Haobo Liu, Shibo Huang, Chenxi Zhang, Jianwei Liu, “CaSTGCN: Deep Learning Method for Information Cascade prediction”, Accepted by the 2024 China Automation Congress (CAC).
