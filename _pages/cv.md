@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="https://github.com/dionobread/gangzhang.github.io/blob/master/files/CV_Gang_Zhang.pdf" width="800" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/CV_Gang_Zhang.pdf" width="1000" height="700" type='application/pdf'> 
 {% include base_path %}
 
 Education
