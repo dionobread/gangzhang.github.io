@@ -11,6 +11,8 @@ I am currently a research assistant at the National Software Engineering Researc
         
 I am applying for a PhD position starting in Fall 2025, with a broad interest in Machine Learning, Deep Learning, Large Language Models (LLM), and Human-Computer Interaction. Specifically, I am interested in Multimodal Large Models, AI Safety, Healthcare AI, LLM-based reasoning, agents and applications, Graph Models, and Human-AI Collaboration.
 
+You can fine my CV here: [Curriculum Vitae](https://github.com/dionobread/gangzhang.github.io/files/CV_Gang_Zhang.pdf)
+
 Publication
 ======
 Gang Zhang, Haobo Liu, Shibo Huang, Chenxi Zhang, Jianwei Liu, “CaSTGCN: Deep Learning Method for Information Cascade prediction”, Accepted by the 2024 China Automation Congress (CAC).
