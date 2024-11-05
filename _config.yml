@@ -21,7 +21,7 @@ repository               : "https://github.com/dionobread/gangzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cat.png"
+  avatar           : "avatar.png"
   name             : "Gang Zhang | 张罡"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant"
