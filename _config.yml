@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Gang Zhang's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Gang Zhang"
 description              : &description "personal description"
 url                      : "https://dionobread.github.io/gangzhang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
